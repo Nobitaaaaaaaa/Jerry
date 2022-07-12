@@ -5,12 +5,12 @@ load_dotenv()
 que = {}
 admins = {}
 
-API_ID = int(getenv("API_ID", "9683694"))
-API_HASH = getenv("API_HASH", "c426d9f7087744afdafc961a620b6338")
-BOT_TOKEN = getenv("BOT_TOKEN","5583584098:AAH8GrxqqdwnkCKALmTYONkEJQU98j_OYiQ")
+API_ID = int(getenv("API_ID", "18005200"))
+API_HASH = getenv("API_HASH", "ddc99b20d72ff77da2cbd576fbe31027")
+BOT_TOKEN = getenv("BOT_TOKEN","5506903401:AAHlf0f-0gfjHXChYujK5y8jVhB1-7oq40o")
 BOT_NAME = getenv("BOT_NAME","Tom")
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "300"))
-SESSION_NAME = getenv("SESSION_NAME", "AQBQFOp8vQcY_1G6QCThL06LpRrPgi7ZaJtHw67_PKmAEuVKHqzzkqFThXpQpMaJKWjcyShNicSg3MkUQQ9pJxgxlJWnQfwSkAv3tlH8cYraFrOhhQ3bZbb0sMHQueGPmjvhpAR9PMKOnPbtc-PI_Tdbm6IjC7pWSm-16HQmVUzTkm8N-7oEq6m1wubqrJbd8Y5EDYpWsnBEkHH5CLw3zVdHznfMhCOLPqOSuh784kM9v8oLkhFWCg3qKnru44Q-DRC4NVAwjY_vb5D0tj524GEu6PNyVCAxI3OmbsiLm8vGjAr1wY-jgYnh-7KFQkctCOt_62MjjLjQZ6DHqrQBZFouAAAAATGMW3kA")
+SESSION_NAME = getenv("SESSION_NAME", "BQCpe2WzN73ZVetMp_zf6Q9pVhpMgr12Pg17uVJz02-XAQrHOxeq8b4LmfzIj9gZkeL8tEhnk77Tl_2vWxkCRwznEtGiHSipu442evLZWghsgYn77I3OvnnXRHI0t7o0wSPzZTdcwWAILMHtyxuJF7mcRffyfEsTSZTksNfamInyw8E4McA4-_fK-bwzbzNwUQ_jHZrRi1qPW6KEMN8wH-o3Lb8La0kgi4OuxanW1ngF82xp_fIgOkWOGCKqvd88NNHcmXAMBfUl2fePLKsZejlNE7UyBIso6znQtuc1c_mXq7p2yLzmt_HnSj92KNQl3sp07ajPymAfhDYyvkNYLRmgAAAAAFEaDzwA")
 COMMAND_PREFIXES = list(getenv("COMMAND_PREFIXES", "/ !").split())
 PMPERMIT = getenv("PMPERMIT", "ENABLE")
-SUDO_USERS = list(map(int, getenv("SUDO_USERS", "5286943475").split()))
+SUDO_USERS = list(map(int, getenv("SUDO_USERS", "1504404866").split()))
