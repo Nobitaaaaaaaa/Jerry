@@ -200,7 +200,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="【 𝙊𝙒𝙉𝙀𝙍 】",
-                            url=f"https://t.me/TASTRON")
+                            url=f"https://t.me/always_worng_45")
                ]
             ]
         )
@@ -215,7 +215,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="【 𝙊𝙒𝙉𝙀𝙍 】",
-                            url=f"https://t.me/TASTRON")
+                            url=f"https://t.me/always_worng_45")
                ]
             ]
         )
@@ -268,7 +268,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="【 𝙊𝙒𝙉𝙀𝙍 】",
-                            url=f"https://t.me/TASTRON")
+                            url=f"https://t.me/always_worng_45")
                ]
             ]
         )
